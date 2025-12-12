@@ -32,7 +32,7 @@ import { Groups } from './pages/admin/Groups';
 import { ScheduledActions } from './pages/admin/ScheduledActions';
 import { SendingLimits } from './pages/admin/SendingLimits';
 import { Mailcow } from './pages/admin/Mailcow';
-
+// Main Application Component
 function App() {
   return (
     <BrowserRouter>
